@@ -6,7 +6,7 @@ Original data from https://github.com/fivethirtyeight/data/blob/master/weather-c
 ## Instructions
 You will need RStudio (https://rstudio.com) to open this project.
 
-The other option is to run weather-check.R in your environment, but you will have to create a **/charts** folder to avoid any error when rendering png files.
+The other option is to run weather-check.R in your environment, verifying the CSV file and a **/charts** folder are present at the same location.
 
 ## To Do
 - Using external libraries (eg: ggplot)
